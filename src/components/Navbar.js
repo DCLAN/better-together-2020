@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
               </Link>
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://github.com/DCLAN/better-together-2020"
                 target="_blank"
                 rel="noopener noreferrer"
               >
