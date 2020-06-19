@@ -1,50 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: We are better when we work together
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Support workplace gender and racial equality
+subheading: Support workplace gender and racial equality
 mainpitch:
-  title: Why Kaldi
+  title: Better Together
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Cake sugar plum carrot cake. Jelly beans toffee cake. Muffin sweet roll biscuit soufflé gingerbread marzipan ice cream. Cheesecake fruitcake icing chocolate cake jelly beans bonbon cotton candy. Tootsie roll jujubes toffee pudding topping macaroon gingerbread. Gummies candy canes powder sugar plum gingerbread lollipop pudding marzipan bear claw. Gummi bears ice cream bear claw biscuit sweet roll gummies jelly-o donut. Carrot cake sesame snaps bonbon sugar plum cookie cupcake halvah candy canes. Tart ice cream jelly beans sweet gummies chocolate cake muffin. Sweet chupa chups carrot cake muffin sugar plum chocolate bar sweet roll caramels danish
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
