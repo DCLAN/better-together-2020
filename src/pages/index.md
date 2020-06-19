@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: We are better when we work together
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Support workplace gender and racial equality
+subheading: Support workplace gender and racial equality
 mainpitch:
-  title: Why Kaldi
+  title: Better Together
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Cake sugar plum carrot cake. Jelly beans toffee cake. Muffin sweet roll biscuit soufflé gingerbread marzipan ice cream. Cheesecake fruitcake icing chocolate cake jelly beans bonbon cotton candy. Tootsie roll jujubes toffee pudding topping macaroon gingerbread. Gummies candy canes powder sugar plum gingerbread lollipop pudding marzipan bear claw. Gummi bears ice cream bear claw biscuit sweet roll gummies jelly-o donut. Carrot cake sesame snaps bonbon sugar plum cookie cupcake halvah candy canes. Tart ice cream jelly beans sweet gummies chocolate cake muffin. Sweet chupa chups carrot cake muffin sugar plum chocolate bar sweet roll caramels danish
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
 intro:
   blurbs:
     - image: /img/coffee.png
