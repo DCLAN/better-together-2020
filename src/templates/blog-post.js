@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
+import Slider from '../components/Slider'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
@@ -13,8 +14,10 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  slider
 }) => {
   const PostContent = contentComponent || Content
+  const BlogSlider = slider ? <Slider array={slider.array} display={slider.display}/> : null;
 
   return (
     <section className="section">
@@ -26,6 +29,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            {BlogSlider}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -74,6 +78,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        slider={post.frontmatter.slider}
       />
     </Layout>
   )
@@ -97,6 +102,16 @@ export const pageQuery = graphql`
         title
         description
         tags
+        slider {
+          display
+          array {
+            original
+            thumbnail
+            originalAlt
+            originalTitle
+            description
+          }
+        }
       }
     }
   }
