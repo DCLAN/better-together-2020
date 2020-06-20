@@ -4,7 +4,7 @@ title: Test - Event Info goes Here
 date: 2020-06-19T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: Test
+description: Our Panelists
 slider:
   display: 'slide'
   array:

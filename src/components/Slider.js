@@ -52,7 +52,7 @@ const Slider = ( { array, display } ) => {
   return (
     <section className="section">
         { display === 'slide'  ?
-     <ImageGallery lazyLoad={true} showBullets={true} renderItem={renderImage} items={array} />
+     <ImageGallery lazyLoad={true} showBullets={true} renderItem={renderImage} items={array} showPlayButton={false} showFullscreenButton={false}/>
     :
      <div className='void'></div>
  }
