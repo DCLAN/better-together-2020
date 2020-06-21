@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
+import Slider from '../components/Slider'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
@@ -13,8 +14,12 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  panelists,
+  slider
 }) => {
   const PostContent = contentComponent || Content
+  const BlogSlider = slider ? <Slider title={panelists.title} array={slider.array} display={slider.display}/> : null;
+  const PanelistSlider = panelists ? <Slider title={panelists.title} array={panelists.array} display={panelists.display} /> : null;
 
   return (
     <section className="section">
@@ -26,7 +31,9 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            { PanelistSlider }
             <PostContent content={content} />
+            { BlogSlider }
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -74,6 +81,8 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        slider={post.frontmatter.slider}
+        panelists={post.frontmatter.panelists}
       />
     </Layout>
   )
@@ -97,6 +106,28 @@ export const pageQuery = graphql`
         title
         description
         tags
+        panelists {
+          display
+          title
+          array {
+            original
+            thumbnail
+            originalAlt
+            originalTitle
+            description
+          }
+        }
+        slider {
+          display
+          title
+          array {
+            original
+            thumbnail
+            originalAlt
+            originalTitle
+            description
+          }
+        }
       }
     }
   }

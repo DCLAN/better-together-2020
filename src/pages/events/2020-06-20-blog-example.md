@@ -1,15 +1,17 @@
 ---
 templateKey: blog-post
-title: Test - Event Info goes Here
-date: 2020-06-19T15:04:10.000Z
+title: Blog Post Example
+date: 2020-06-20T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: Test
+description: Our Panelists
 tags:
   - test
   - testing
+  - blog
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+
+# This is an example of a blog post
 
 Cupcakes, pasta, bread. Yum!
 
