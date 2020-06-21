@@ -47,12 +47,15 @@ function renderImage(item) {
   );
 }
 
-const Slider = ( { array, display } ) => {
+const Slider = ( { array, display, title } ) => {
 
   return (
     <section className="section">
         { display === 'slide'  ?
-     <ImageGallery lazyLoad={true} showBullets={true} renderItem={renderImage} items={array} showPlayButton={false} showFullscreenButton={false}/>
+        <div>
+          <p>{title}</p>
+          <ImageGallery lazyLoad={true} showBullets={true} renderItem={renderImage} items={array} showPlayButton={false} showFullscreenButton={false}/>
+        </div>
     :
      <div className='void'></div>
  }
