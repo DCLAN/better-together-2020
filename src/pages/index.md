@@ -7,7 +7,7 @@ subheading: Support workplace gender and racial equality
 mainpitch:
   title: Better Together
   description: >
-   Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
+    Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
 description: >-
   Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
 intro:
