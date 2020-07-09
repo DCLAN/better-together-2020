@@ -25,7 +25,7 @@ tags:
   - event
 ---
 
-## Hello Everyone - We love Carbohydrates!
+## Hello world - We love Carbohydrates!
 
 Cupcakes, pasta, bread. Yum!
 
