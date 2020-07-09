@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Support workplace gender and racial equality
 subheading: Support workplace gender and racial equality
 mainpitch:
-  title: Better Together
+  title: Better Together 1
   description: >
    Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
 description: >-
