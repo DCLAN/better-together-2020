@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy. Let’s start the conversation with gender diversity. <p> Join industry leaders in Ottawa to hear tips and ideas on how you can impact your organization to create an inclusive environment, build collaborative teams and drive innovation. Have open and honest discussions with other leaders about what works and what doesn't, when it comes recruiting, hiring and keeping diverse talent. You’re invited because we think your input is valuable to this conversation. We hope this will be the first of many events where we work together to build stronger connections, learn from each other, and make progress on gender equality at our workplaces. Because we believe we are better together. </p>
 description: >-
-  Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
+ Hi Grant! gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
 intro:
   heading: What we offer
   description: >
