@@ -7,7 +7,7 @@ subheading: Support workplace gender and racial equality
 mainpitch:
   title: Better Together
   description: >
-    Cake sugar plum carrot cake. Jelly beans toffee cake. Muffin sweet roll biscuit soufflé gingerbread marzipan ice cream. Cheesecake fruitcake icing chocolate cake jelly beans bonbon cotton candy. Tootsie roll jujubes toffee pudding topping macaroon gingerbread. Gummies candy canes powder sugar plum gingerbread lollipop pudding marzipan bear claw. Gummi bears ice cream bear claw biscuit sweet roll gummies jelly-o donut. Carrot cake sesame snaps bonbon sugar plum cookie cupcake halvah candy canes. Tart ice cream jelly beans sweet gummies chocolate cake muffin. Sweet chupa chups carrot cake muffin sugar plum chocolate bar sweet roll caramels danish
+    Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
 description: >-
   Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
 intro:
