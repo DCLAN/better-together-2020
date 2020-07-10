@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: We are better when we work together
-image: /img/home-jumbotron.jpg
+image: /img/PastEvents/legoheader.jpg
 heading: Support workplace gender and racial equality
 subheading: Support workplace gender and racial equality
 mainpitch:
