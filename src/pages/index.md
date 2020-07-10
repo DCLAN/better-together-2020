@@ -1,15 +1,17 @@
 ---
 templateKey: index-page
-title: We are better when we work together
+title: Better Together
 image: /img/home-jumbotron.jpg
-heading: Support workplace gender and racial equality
-subheading: Support workplace gender and racial equality
+heading: Let's have a conversation about equality
+subheading: What
 mainpitch:
-  title: Better Together
+  title: Why
   description: >
-    Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
+    Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy. <p>Let’s have a conversation about equality.</p> <p>Join industry leaders in Ottawa to hear tips and ideas on how you can impact your organization to create an inclusive environment, build collaborative teams and drive innovation. Have open and honest discussions with other leaders about what works and what doesn't, when it comes recruiting, hiring and keeping diverse talent.</p>
+<p>You’re invited because we think your input is valuable to this conversation.</p><p>We hope this will be the first of many events where we work together to build stronger connections, learn from each other, and make progress on equality at our workplaces.
+Because we believe we are better together.</p>
 description: >-
-  Carrot cake gingerbread cake pie muffin. Liquorice pie gingerbread fruitcake caramels sweet donut. Gingerbread cupcake topping candy canes gummi bears powder sugar plum gummies candy canes. Icing powder tart caramels. Apple pie gingerbread jelly-o liquorice cake jujubes fruitcake macaroon. Marzipan chocolate cake cheesecake cake brownie cake chupa chups.
+  A virtual conference with Ottawa's top industry leaders to have an honest conversation about equality.
 intro:
   heading: What we offer
   description: >
