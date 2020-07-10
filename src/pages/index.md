@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: We are better when we work together
+title: Better Together
 image: /img/home-jumbotron.jpg
-heading: Support workplace gender and racial equality
-subheading: Support workplace gender and racial equality
+heading: Let's have a conversation about equality
+subheading: What
 mainpitch:
-  title: Better Together
+  title: Why
   description: >
     Studies point to how diversity increases innovation and revenue. Google says the best teams are the ones with high levels of empathy.
 description: >-
